@@ -34,7 +34,7 @@ Mi nombre es Jose 👍
 > Twitter: **Joseantonio3100**
 > Discord: **Joseantonio3100**
 > Xbox: **Joseantonio3100**
-> Tiktok: **oseantonio3100**
+> Tiktok: **joseantonio3100_**
 
 
 
@@ -74,6 +74,6 @@ My name is Jose 👍
 > Twitter: **Joseantonio3100**
 > Discord: **Joseantonio3100**
 > Xbox: **Joseantonio3100**
-> Tiktok: **oseantonio3100**
+> Tiktok: **joseantonio3100_**
 
 **Note: I don't speak English, just use a translator xd**
