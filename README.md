@@ -18,6 +18,8 @@ Mi nombre es Jose 👍
 
 🐱 • Casi no tengo conocimientos de github por lo que voy aprendiendo poco a poco de github
 
+🤖 • Hago personajes de characters para el rolplay (Chub.IA) (aun no subo mis creaciones xd)
+
 ꘎☆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━☆꘎
 
 #### 💻 Lenguajes de Programacion que Uso:
@@ -57,6 +59,8 @@ My name is Jose 👍
 🤖 • I create Discord Bots with Node.JS    
 
 🐱 • I have almost no knowledge of github so I am learning little by little about github    
+
+🤖 • I make characters for rolplay (Chub.IA) (I haven't uploaded my creations yet xd)
 
 ꘎☆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━☆꘎
 
