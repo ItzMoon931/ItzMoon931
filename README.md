@@ -1,83 +1,10 @@
-### Spanish <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg" width="30"></h2>
-## Hola, soy Jose :) 👋
+## Hi, I'm Jose! 👋
 
-꘎☆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━☆꘎
+I am a destructive malware creator, using .NET Framework and C#, I like to create destructive and fun malwares, I create rolplay characters with different stories, I am a casual Minecraft player, I also create java plugins using the bukkit api but I am still learning more how to use it!
 
-Mi nombre es Jose 👍    
+### Tools and programming languages I use:
+![](https://skillicons.dev/icons?i=idea,vscode,visualstudio,cs,net,discordjs,java,js,nodejs,py)
 
-🎮 • Me encanta jugar **Minecraft** y aparte de otros juegos como **Stumble Guys y Asphalt**
+### Social Networking:
 
-💥 • Creo Malwares algo divertidos y muy destructivos   
-**Por eso es muy recomendable usar una Maquina Virtual como son VirtualBox o VMware para evitar daños perjuriciales a tu computadora 😉**
-
-🔧 • Creo Plugins para servidores de Minecraft Java **(Spigot)** **pero no estoy interesado en un trabajo para crear sus plugins ya que aun estoy aprendiendo sobre plugins y solo hago plugins basicos 😥**
-
-🔩 • Configuro Servidores de Minecraft (Especialmente Spigot) y Discord
-
-🤖 • Creo Bots de Discord con Node.JS
-
-🐱 • Casi no tengo conocimientos de github por lo que voy aprendiendo poco a poco de github
-
-🤖 • Hago personajes de characters para el rolplay (Chub.IA) (aun no subo mis creaciones xd)
-
-꘎☆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━☆꘎
-
-#### 💻 Lenguajes de Programacion que Uso:
-
-> 1. Java
-> 2. JavaScript
-> 3. C#
-> 4. Python
-
-꘎☆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━☆꘎
-
-#### 📱 Redes
-
-> Twitter: **Joseantonio3100**
-> Discord: **Joseantonio3100**
-> Xbox: **Joseantonio3100**
-> Tiktok: **joseantonio3100_**
-
-
-
-### English <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/2560px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" width="30"></h2>
-Hello, I'm Jose :) 👋
-
-꘎☆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━☆꘎
-
-My name is Jose 👍  
-
-🎮 • I love playing **Minecraft** and apart from other games like **Stumble Guys and Asphalt**    
-
-💥 • I create somewhat fun and very destructive Malwares
-**That is why it is highly recommended to use a Virtual Machine such as VirtualBox or VMware to avoid harmful damage to your computer 😉**    
-
-🔧 • I create Plugins for Minecraft Java servers **(Spigot)** **but I am not interested in a job to create their plugins since I am still learning about plugins and I only make basic plugins 😥**     
-
-🔩 • I set up Minecraft Servers (Especially Spigot) and Discord     
-
-🤖 • I create Discord Bots with Node.JS    
-
-🐱 • I have almost no knowledge of github so I am learning little by little about github    
-
-🤖 • I make characters for rolplay (Chub.IA) (I haven't uploaded my creations yet xd)
-
-꘎☆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━☆꘎
-
-#### 💻 Programming Languages ​​I Use:
-
-> 1. Java
-> 2. JavaScript
-> 3. C#
-> 4. Python
-
-꘎☆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━☆꘎
-
-#### 📱 Networks
-
-> Twitter: **Joseantonio3100**
-> Discord: **Joseantonio3100**
-> Xbox: **Joseantonio3100**
-> Tiktok: **joseantonio3100_**
-
-**Note: I don't speak English, just use a translator xd**
+[Tiktok](https://tiktok.com/@joseantonio3100_) | [Twitter | X](https://x.com/Joseantonio3100) | Discord: *joseantonio3100*
