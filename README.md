@@ -9,6 +9,8 @@ I am a destructive malware creator using for the creation of these: .NET Framewo
 
 [Tiktok](https://tiktok.com/@joseantonio3100_) | [Twitter | X](https://x.com/Joseantonio3100) | Discord: *joseantonio3100*
 
+꘎☆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━☆꘎
+
 ### My active projects
 
 * I don't have any projects active or uploaded to github yet.
