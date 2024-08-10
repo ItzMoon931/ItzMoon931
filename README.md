@@ -7,8 +7,21 @@ I am a destructive malware creator using for the creation of these: .NET Framewo
 
 ### Social Networking:
 
-[Tiktok](https://tiktok.com/@joseantonio3100_) | [Twitter | X](https://x.com/Joseantonio3100) | Discord: *joseantonio3100*
+[Tiktok](https://tiktok.com/@joseantonio3100_) | [Twitter | X](https://x.com/Joseantonio3100) | [Discord](https://discordapp.com/users/971813292102266920): *joseantonio3100*
 
+꘎☆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━☆꘎
+<details>
+  
+<summary>About Me</summary>
+
+  * **Name:** José Antonio
+  * **Games I have played:** Minecraft, Roblox, Stumble Guys, Asphalt and Doki Doki Literature Club
+  * **Favorite Games:** Minecraft, Asphalt and Stumble Guys
+  * **Hobbies:** Playing games, creating malware or something related to GDI and creating and developing characters.
+  * **Where I live?:** Mexico
+  * **I speak:** Spanish (Always) and English (5%)
+  
+</details>
 ꘎☆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━☆꘎
 
 ### My active projects
