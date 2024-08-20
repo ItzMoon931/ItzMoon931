@@ -1,3 +1,4 @@
+# [Spanish](README-ES.md) | English
 ## Hi, I'm Jose! 👋
 
 I am a destructive malware creator using for the creation of these: .NET Framework and C#, I like to create destructive and fun malwares, I create rolplay characters with different stories, I am an occasional Minecraft player, I have knowledge of AI like RVC and SD, I also create java plugins using the bukkit api, but I am still learning more how to use it.
@@ -26,7 +27,8 @@ I am a destructive malware creator using for the creation of these: .NET Framewo
 
 ### My active projects
 
-* I don't have any projects active or uploaded to github yet.
+> [Troll](https://github.com/Joseantonio2354/Troll) (GDI.Win32)
+* A fun to use program, to troll with your friends, this program is not made with the intention to destroy/steal data/break your computer, the program created in C# and using GDI with Music generated with ByteBeat. [Github](https://github.com/Joseantonio2354/Troll)
 
 ### Pending projects
 
