@@ -27,11 +27,11 @@ I am a destructive malware creator using for the creation of these: .NET Framewo
 
 ### My active projects
 
-> [Troll](https://github.com/ItzMoon931/Troll) (GDI.Win32)
+> [Troll](https://github.com/ItzMoon931/Troll) **(GDI.Win32)**
 * A fun to use program, to troll with your friends, this program is not made with the intention to destroy/steal data/break your computer, the program created in C# and using GDI with Music generated with ByteBeat. [Github](https://github.com/ItzMoon931/Troll)
 
-> [Kawaii](https://github.com/ItzMoon931/Kawaii) (Trojan.Win32)
-* This is my first public malware, I made another one but it's such a total shit that I decided not to publish it, this malware is destructive, causing MBR modification, corrupted registers, icon changes, windows boot file deletion and file changes throughout System32, but the most interesting are the GDIs as there are several such as BitPit or PlgBit. [Github](https://github.com/ItzMoon931/Kawaii)
+> [Kawaii](https://github.com/ItzMoon931/Kawaii) **(Trojan.Win32)**
+* This is my first public malware, I made another one but it's such a total shit that I decided not to publish it, this malware is destructive, causing MBR modification, corrupted registers, icon changes, windows boot file deletion and file changes throughout System32, but the most interesting are the GDIs as there are several such as BitBlt or PlgBit. [Github](https://github.com/ItzMoon931/Kawaii)
 
 ### Pending projects
 
