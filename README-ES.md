@@ -27,16 +27,13 @@ Soy un creador de malware destructivo utilizando para la creación de estos: .NE
 
 ### Proyectos Activos
 
-> [Troll](https://github.com/Joseantonio2354/Troll) **(GDI.Win32)**
-* Un programa divertido de usar, para trollear con tus amigos, este programa no está hecho con la intención de destruir/robar datos/romper tu ordenador, el programa creado en C# y usando GDI con Música generada con ByteBeat. [Github](https://github.com/Joseantonio2354/Troll)
+> [Troll](https://github.com/ItzMoon931/Troll) **(GDI.Win32)**
+* Un programa divertido de usar, para trollear con tus amigos, este programa no está hecho con la intención de destruir/robar datos/romper tu ordenador, el programa creado en C# y usando GDI con Música generada con ByteBeat. [Github](https://github.com/ItzMoon931/Troll)
+
+> [Kawaii](https://github.com/ItzMoon931/Kawaii)
+* Este es mi primer malware público, hice otro pero es una mierda tan total que decidí no publicarlo, este malware es muy destructivo, provoca modificación del MBR, corrupcion de registros, cambios en los iconos, borrado del archivo de arranque de windows y cambios de archivos en todo System32, pero lo más interesante son los GDI ya que hay varios como BitBlt o PlgBit. [Github](https://github.com/ItzMoon931/Kawaii)
 
 ### Proyectos Pendientes
 
 > MinecraftUnlock
 * Programa hecho en C#, que ayuda a los jugadores de Win 10/11 a desbloquear el juego **Minecraft** usando DLLs.
-
-> Google Chrome
-* Esto es un malware, "algo" divertido, pero destructivo, no da mucho miedo... Sólo lo hice para ver qué puedo conseguir en mis próximos virus, sólo modifica el MBR (Master Boot Record) y los iconos de Windows, nada interesante.
-
-> Kawaii
-* Otro malware, pero más destructivo, provoca modificación del MBR, corrupcion de registros, cambios en los iconos, borrado del archivo de arranque de windows y cambios de archivos en todo System32, pero lo más interesante son los GDI ya que hay varios como Mandelbrot o PlgBit. 
