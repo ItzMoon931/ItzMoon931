@@ -27,16 +27,13 @@ I am a destructive malware creator using for the creation of these: .NET Framewo
 
 ### My active projects
 
-> [Troll](https://github.com/Joseantonio2354/Troll) (GDI.Win32)
-* A fun to use program, to troll with your friends, this program is not made with the intention to destroy/steal data/break your computer, the program created in C# and using GDI with Music generated with ByteBeat. [Github](https://github.com/Joseantonio2354/Troll)
+> [Troll](https://github.com/ItzMoon931/Troll) (GDI.Win32)
+* A fun to use program, to troll with your friends, this program is not made with the intention to destroy/steal data/break your computer, the program created in C# and using GDI with Music generated with ByteBeat. [Github](https://github.com/ItzMoon931/Troll)
+
+> [Kawaii](https://github.com/ItzMoon931/Kawaii) (Trojan.Win32)
+* This is my first public malware, I made another one but it's such a total shit that I decided not to publish it, this malware is destructive, causing MBR modification, corrupted registers, icon changes, windows boot file deletion and file changes throughout System32, but the most interesting are the GDIs as there are several such as BitPit or PlgBit. [Github](https://github.com/ItzMoon931/Kawaii)
 
 ### Pending projects
 
 > MinecraftUnlock
 * Program made in C#, which helps Win 10/11 players to unlock the **Minecraft** game using DLLs.
-
-> Chrome Google
-* This is a malware, "something" funny, but destructive, not very scary... I just made it to see what I can achieve in my next viruses, it only modifies the MBR (Master Boot Record) and the Windows icons, nothing interesting.
-
-> Kawaii
-* Another malware, but more destructive, causing MBR modification, corrupted registers, icon changes, windows boot file deletion and file changes throughout System32, but the most interesting are the GDIs as there are several such as Mandelbrot or PlgBit. 
