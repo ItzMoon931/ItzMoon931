@@ -8,7 +8,7 @@ Soy un creador de malware destructivo utilizando para la creación de estos: .NE
 
 ### Redes sociales:
 
-[Tiktok](https://tiktok.com/@joseantonio3100_) | [Twitter | X](https://x.com/Joseantonio3100) | [Discord](https://discordapp.com/users/971813292102266920): *joseantonio3100*
+[Tiktok](https://tiktok.com/@zblueex_) | [Twitter | X](https://x.com/Joseantonio3100) | [Discord](https://discordapp.com/users/971813292102266920): *joseantonio3100*
 
 ꘎☆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━☆꘎
 <details>
@@ -27,9 +27,6 @@ Soy un creador de malware destructivo utilizando para la creación de estos: .NE
 
 ### Proyectos Activos
 
-> [Troll](https://github.com/ItzMoon931/Troll) **(GDI.Win32)**
-* Un programa divertido de usar, para trollear con tus amigos, este programa no está hecho con la intención de destruir/robar datos/romper tu ordenador, el programa creado en C# y usando GDI con Música generada con ByteBeat. [Github](https://github.com/ItzMoon931/Troll)
-
 > [Kawaii](https://github.com/ItzMoon931/Kawaii)
 * Este es mi primer malware público, hice otro pero es una mierda tan total que decidí no publicarlo, este malware es muy destructivo, provoca modificación del MBR, corrupcion de registros, cambios en los iconos, borrado del archivo de arranque de windows y cambios de archivos en todo System32, pero lo más interesante son los GDI ya que hay varios como BitBlt o PlgBit. [Github](https://github.com/ItzMoon931/Kawaii)
 
@@ -37,3 +34,6 @@ Soy un creador de malware destructivo utilizando para la creación de estos: .NE
 
 > MinecraftUnlock
 * Programa hecho en C#, que ayuda a los jugadores de Win 10/11 a desbloquear el juego **Minecraft** usando DLLs.
+
+> Alya-san
+* Un malware basado en el anime "**Alya Sometimes Hides Her Feelings in Russian**", este malware esta hecho en C#, usando WPF, este malware se ocupara del terror y algunas otras cosas que quiero mantener en secreto...
