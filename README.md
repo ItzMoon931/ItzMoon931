@@ -1,5 +1,5 @@
 # [Spanish](README-ES.md) | English
-## Hi, I'm Jose! 👋
+## Hi, I'm Blue! 👋
 
 I am a destructive malware creator using for the creation of these: .NET Framework and C#, I like to create destructive and fun malwares, I create rolplay characters with different stories, I am an occasional Minecraft player, I have knowledge of AI like RVC and SD, I also create java plugins using the bukkit api, but I am still learning more how to use it.
 
@@ -15,20 +15,20 @@ I am a destructive malware creator using for the creation of these: .NET Framewo
   
 <summary>About Me</summary>
 
-  * **Name:** José Antonio
+  * **Name real:** José
   * **Games I have played:** Minecraft, Roblox, Stumble Guys, Asphalt and Doki Doki Literature Club
-  * **Favorite Games:** Minecraft, Asphalt and Stumble Guys
+  * **Favorite Games:** Minecraft
   * **Hobbies:** Playing games, creating malware or something related to GDI and creating and developing characters.
   * **Where I live?:** Mexico
   * **I speak:** Spanish (Always) and English (6%)
-  
+  * **Currently interested:** CyberSecurity and Pentesting
 </details>
 ꘎☆━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━☆꘎
 
 ### My active projects
 
-> [Kawaii](https://github.com/ItzMoon931/Kawaii) **(Trojan.Win32)**
-* This is my first public malware, I made another one but it's such a total shit that I decided not to publish it, this malware is destructive, causing MBR modification, corrupted registers, icon changes, windows boot file deletion and file changes throughout System32, but the most interesting are the GDIs as there are several such as BitBlt or PlgBit. [Github](https://github.com/ItzMoon931/Kawaii)
+> [Kawaii](https://github.com/zBlueex/Kawaii) **(Trojan.Win32)**
+* This is my first public malware, I made another one but it's such a total shit that I decided not to publish it, this malware is destructive, causing MBR modification, corrupted registers, icon changes, windows boot file deletion and file changes throughout System32, but the most interesting are the GDIs as there are several such as BitBlt or PlgBit. [Github](https://github.com/zBlueex/Kawaii)
 
 ### Pending projects
 
